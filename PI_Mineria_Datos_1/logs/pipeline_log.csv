@@ -3,4 +3,6 @@ Paso,Descripción,Filas
 1,Eliminación de filas duplicadas,8034
 2,Normalización de texto en planes y géneros,8034
 3,"Filtrado de valores inválidos (edades neg/150, tiempo neg/99999, tickets -1)",7662
-4,Imputación de nulos en Watch Time usando mediana por plan,7662
+5,Estandarización de nombres de países y géneros favoritos,7662
+6,Exportación de datos limpios,7662
+5,Estandarización de nombres de países y géneros favoritos,7662
